@@ -1,3 +1,6 @@
+![GitHub followers](https://img.shields.io/github/followers/Kik07L?color=7289da&logo=GitHub&style=for-the-badge)
+![Github profile views](https://komarev.com/ghpvc/?username=Kik07L&label=Profile%20views&color=7289da&style=for-the-badge)
+
 # SuperKiment !
 
 ## Working on :
