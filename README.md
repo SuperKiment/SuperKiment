@@ -10,8 +10,14 @@ Hi ! I'm a french computer science student who makes not working games ! *I know
 ## Skills
 I'll just make a list :
 #### **Java**
-   *Maven, Processing | Eclipse*
+*Maven, Processing | Eclipse*
 #### **JS**
-   *Two.js, Three.js, Node, ReactJS, React Native, ExpressJS*
- #### **C#**
-   *MonoGame, Unity | Visual Studio*
+*pure, Two.js, Three.js, Node, ReactJS, React Native, ExpressJS*
+#### **C#**
+*MonoGame, Unity | Visual Studio*
+#### Python
+*Django, Flask*
+#### PHP
+*pure, Symfony*
+#### OpenGL
+*GLSL in Processing*
