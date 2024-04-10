@@ -9,7 +9,7 @@ Hi ! I'm a french computer science student who makes not working games ! *I know
 
 ## Skills
 I'll just make a list :
-- #### **Java**
+#### **Java**
     *Maven, Processing | Eclipse*
 > #### **JS**
 >   *Two.js, Three.js, Node, ReactJS, React Native, ExpressJS*
