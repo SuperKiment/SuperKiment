@@ -1,5 +1,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/SuperKiment?color=7289da&logo=GitHub&style=for-the-badge)
 ![Github profile views](https://komarev.com/ghpvc/?username=SuperKiment&label=Profile%20views&color=7289da&style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperKiment&theme=react&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperKiment&theme=react&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SuperKiment&theme=react&hide_border=true)
 
 # SuperKiment !
 
