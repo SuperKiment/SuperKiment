@@ -1,5 +1,5 @@
 ## Working on :
-Actually working on a [Open Monster Hunter](https://github.com/SuperKiment/OpenMonsterHunter) !
+Actually working on a [Titan Takedown](https://github.com/SuperKiment/TitanTakeDown) !
 It's a draft project to learn local multiplayer games' achitecture. Basically a server-client game supporting an infinity of clients made in Java. Go check it out !
 <br clear="both">
 
