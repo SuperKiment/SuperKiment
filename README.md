@@ -1,12 +1,7 @@
 ## Working on :
-Actually working on a [Titan Takedown](https://github.com/SuperKiment/TitanTakeDown) !
+Actually working on [SurvivKim](https://github.com/SuperKiment/SurvivKim) !
 It's a draft project to learn local multiplayer games' achitecture. Basically a server-client game supporting an infinity of clients made in Java. Go check it out !
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperKiment&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=fr&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperKiment&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
